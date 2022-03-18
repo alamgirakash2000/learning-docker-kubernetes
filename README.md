@@ -1,12 +1,13 @@
-<h1 align="center"> Learnign Docker and Kubernetes </h1>
+<h1 align="center"> Learning Docker and Kubernetes </h1>
 
-I am using this to saved the requiered materials for learning **_Docker and
-Kuberneter_**
+I am using this repository to saved the required materials for learning
+**_Docker and Kubernetes_**
 
 ## Used resourses for learning:
 
-I am main using YouTube videos and the official documentation for using these
-two tools. Here are the three videos that I am using.
+I am main using three YouTube videos (nearly 11 hours long) and the official
+documentation for using these two tools. Here are the three videos that I am
+using.
 
 - ### [Docker and Kubernetes by FreeCodeCamp](https://youtu.be/bhBSlnQcq2k)
   This is nearly 4 hours long video hosted on YouTUbe. It is offered by
