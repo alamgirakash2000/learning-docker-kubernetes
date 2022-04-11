@@ -1,15 +1,15 @@
-<h1 align="center"> Learning Docker and Kubernetes </h1>
+<h1 align="center"> Mastering Git, Linux, Docker and Kubernetes </h1>
 
-I am using this repository to saved the required materials for learning
-**_Docker and Kubernetes_**
+I am using this repository to saved the required materials and progress of my personal challange streak -
+**_Mastering Git, Linux, Docker and Kubernetes_**. Here I am also saving the projects that I have completed throught this learning journey.
 
 ## Used resourses for learning:
 
-I am main using three YouTube videos (nearly 11 hours long) and the official
-documentation for using these two tools. Here are the three videos that I am
-using.
+List of Principal resourses that I am using - 
 
-- ### [Docker and Kubernetes by FreeCodeCamp](https://youtu.be/bhBSlnQcq2k)
+- ## Git
+   - ***[The Ultimate Git Mastery Course](https://codewithmosh.com/p/the-ultimate-git-course)*** - This course is offered by Mosh Hamedani on the site name CodeWithMosh. It's a **5.5 hours** long course that teach all about Git.
+-  [Docker and Kubernetes by FreeCodeCamp](https://youtu.be/bhBSlnQcq2k)
   This is nearly 4 hours long video hosted on YouTUbe. It is offered by
   Amigoscode and also hosted on FreeCodeCamp. This video teach both Docker and
   Kubernetes
