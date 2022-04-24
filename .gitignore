@@ -2,6 +2,7 @@
 /react-app/node_modules
 /vidly/frontend/node_modules
 /vidly/backend/node_modules
+/*node_modules
 
 # dependencies
 /node_modules
@@ -14,6 +15,7 @@
 
 # production
 /build
+/vidly/frontend/build
 
 # misc
 .DS_Store
